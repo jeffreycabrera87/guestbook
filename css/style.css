@@ -1,0 +1,27 @@
+#table-second{
+	float: left;
+	margin: 50px 15px 15px 0px;
+}
+
+#table-first{
+	width: 700px;
+	margin: 50px 15px 15px 50px;
+	float:right;
+	background-color: pink;
+}
+
+body{
+	text-align: center;
+}
+
+th{
+	font-family: times;	
+}
+
+#direct{
+	position: relative;
+	top: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	float: right;
+}
